@@ -11,4 +11,8 @@ baseurl: /vade
 remote_theme: yree/mold
 
 footer_content: >
-  ##### [VADE](https://yree.io/vade) - _Your Brand in Motion._ :: [contact](javascript:window.location='mailto:vade@yree.io?subject='+encodeURIComponent(document.title))
+  ##### [VADE](https://yree.io/vade) - _Your Brand in Motion_
+  <br>a [Yree](https://yree.io) product
+  <br>
+  <br>[legal](legal)::[contact](javascript:window.location='mailto:vade@yree.io?subject='+encodeURIComponent(document.title))
+  
