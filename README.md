@@ -80,4 +80,3 @@ Interested in partnering with VADE? Let’s discuss how we can provide consisten
 📞 Phone: +91 XXXXXXXXXX  
 🌐 Website: [https://yree.io/vade](https://yree.io/vade)
 
-**VADE** – _Your Brand in Motion._
