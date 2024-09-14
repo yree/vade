@@ -1,0 +1,14 @@
+title: vade
+author: Shantanu Mishra
+email: vade@yree.io
+description: >
+  the van ad express!
+  we drive your brand and park your success.
+
+url: https://yree.io
+baseurl: /vade
+
+remote_theme: yree/mold
+
+footer_content: >
+  ##### [VADE](https://yree.io/vade) - _Your Brand in Motion._ :: [contact](javascript:window.location='mailto:vade@yree.io?subject='+encodeURIComponent(document.title))
